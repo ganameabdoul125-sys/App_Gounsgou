@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titre": "Faux dépôt « par erreur »",
+    "canal": "SMS + appel",
+    "texte": "Bonjour, j'ai fait un dépôt de 75000 FCFA sur votre compte par erreur. Merci de me renvoyer l'argent au plus vite, c'est urgent."
+  },
+  {
+    "id": 2,
+    "titre": "Faux dépôt « par erreur »",
+    "canal": "WhatsApp",
+    "texte": "Frère excuse moi, je me suis trompé de numéro, j'ai envoyé 50000 sur ton Orange Money. Peux tu me retourner stp, c'est l'argent de ma mère."
+  },
+  {
+    "id": 3,
+    "titre": "Faux SMS de confirmation de dépôt",
+    "canal": "SMS",
+    "texte": "Vous avez reçu un dépôt de 100000 FCFA de la part de 70123456. Nouveau solde: 100250 FCFA. Ref: 8839201."
+  },
+  {
+    "id": 4,
+    "titre": "Faux concours Orange / Moov",
+    "canal": "SMS",
+    "texte": "Félicitations ! Votre numéro a été tiré au sort et vous avez gagné 2 000 000 FCFA. Pour recevoir votre gain, contactez le 70000000 et payez les frais de dossier."
+  },
+  {
+    "id": 5,
+    "titre": "Faux concours (téléphone / voiture)",
+    "canal": "Facebook / WhatsApp",
+    "texte": "Vous avez gagné un iPhone ! Cliquez sur le lien pour réclamer votre cadeau, offre valable 24h seulement. Partagez ce message à 10 contacts."
+  },
+  {
+    "id": 6,
+    "titre": "Faux agent du service client",
+    "canal": "Appel",
+    "texte": "Bonjour, je suis du service client Orange Money. Une opération suspecte a été détectée sur votre compte. Pour l'annuler, donnez-moi votre code secret."
+  },
+  {
+    "id": 7,
+    "titre": "Faux agent du service client",
+    "canal": "SMS",
+    "texte": "Service client Moov Money: votre compte sera bloqué dans 24h. Répondez avec votre code PIN pour confirmer votre identité."
+  },
+  {
+    "id": 8,
+    "titre": "Hameçonnage : vérification de compte",
+    "canal": "SMS",
+    "texte": "URGENT: Votre compte Orange Money est suspendu. Vérifiez votre identité immédiatement sur http://orange-verification-bf.xyz sinon il sera fermé."
+  },
+  {
+    "id": 9,
+    "titre": "Hameçonnage : vérification de compte",
+    "canal": "WhatsApp",
+    "texte": "Cher client, votre compte Coris Money sera désactivé. Cliquez ici pour mettre à jour vos informations: http://bit.ly/coris-maj"
+  },
+  {
+    "id": 10,
+    "titre": "Usurpation de compte WhatsApp",
+    "canal": "WhatsApp",
+    "texte": "Salut c'est moi, j'ai changé de numéro. Je suis dans un problème urgent, peux-tu m'envoyer 25000 par Mobile Money ? Je te rembourse demain."
+  },
+  {
+    "id": 11,
+    "titre": "Vol de code WhatsApp",
+    "canal": "WhatsApp",
+    "texte": "Salut, je t'ai envoyé un code par SMS par erreur, peux-tu me le renvoyer s'il te plaît ? C'est urgent."
+  },
+  {
+    "id": 12,
+    "titre": "Fausse offre d'emploi / bourse",
+    "canal": "Facebook / WhatsApp",
+    "texte": "Recrutement urgent: 300000 FCFA par mois. Envoyez 10000 FCFA de frais de dossier par Mobile Money pour valider votre inscription."
+  },
+  {
+    "id": 13,
+    "titre": "Fausse rumeur alarmiste",
+    "canal": "WhatsApp",
+    "texte": "URGENT À PARTAGER: les autorités annoncent la fermeture de toutes les banques demain. Retirez votre argent maintenant et transmettez à tous vos contacts."
+  }
+]
